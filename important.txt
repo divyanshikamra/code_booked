@@ -1,0 +1,11 @@
+some more MODIFICATIONS can be made but due to lack of time i could not do them. some of them are:
+   adding more features to this app.
+   also adding links of books and scanned copies of notes when one searches for a particular book or notes, since our purpose it to help the user get the item he wants may be a softcopy if    getting a hardcopy is getting tough
+   and ofcourse there are many more.
+
+EXPLANATION OF MY CODE:
+  i have made in the first screen i.e. for sign up
+  it takes user's input so that gets to know about the locality and possible choices of user.
+  if you press "signup" it takes you to the next screen.
+  the next screen shows a model layout of how the after login screen will look like.
+  when you press"logout" it brings you back to the login page.

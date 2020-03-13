@@ -1,0 +1,78 @@
+Android Assignment
+
+Reasearch
+
+a. mobiles require a system to operate, android is one such mobile operating system which has advanced our phones. 
+   created by majorly google and 84 other mobile companies called 'open handset alliance'. the people who invented are Nick Sears, Rich Miner, Andy Rubin.
+   An Android app is a software application running on the Android platform. Because the Android platform is built for mobile devices, a typical Android app is designed for a smartphone or    a tablet PC running on the Android OS.
+
+b. Google states that "Android apps can be written using Kotlin, Java, and C++ languages" using the Android software development kit (SDK), while using other languages is also possible.
+   One of the softwares for android app developemet is ANDROID STUDIO.
+
+c. Java is the official language of Android development and is supported by Android Studio. Kotlin has been declared as the secondary official language. While one can also make an app on    c/c++ using Java NDK.
+  
+Instiapp is written in languages:fairly advanced TypeScript, HTML, CSS and JavaScript.
+
+d. picture attached on github
+
+e. TextView, EditText, Buttons, Checkbox, Progressbar, Spinners.
+   
+f. Java has been developed as the platform independent language that can be deployed using virtual missions
+   Java is object-oriented language with unmatched flexibility
+   Java ensures top notch security in different programming and running environments
+   Java comes packed with a huge variety of inbuilt tools and IDEs to ensure diverse applications.
+
+   similarity to cpp:
+   he languages are object-oriented.Primitive data types, loops, conditional statements, conditional operators, arithmetic operators, classes, variable definitions, variable    initializations, value assignments, etc. are similar.
+
+TASK:
+
+1. Done. thereby, only capable to build the code on my own.
+
+2. it should present: top recommendations as per my previous choices,
+                      search bar,
+                      a button to reach to "my exchanges" so that i can have a note of people i am sharing "our" articles with,
+                      a logo of the app in some corner,
+                      logout button.
+3. picture attached on github. i have made the prototype for two screens: one before the login and one after it. i have done this using figma.
+
+4. for before login activity:
+    "book-ed!" : textview
+    "one shelf for all" : textview
+    "name, residential address, college/university, occupation" : editview
+    "already registered?" : textview
+    "login" : button
+
+the page can be made via keeping "residential address" in the center using "centerInParent" and all the other things can be alligned acc to it using relative view by placing every child one after the other by giving relative distance. this can also be done using linear layout and maintaining space as per required ,as it is different in this for each ,using "margin"
+
+for after login activity:
+     "book-ed! , one shelf for all" : textview
+     search bar : editview
+     "top for you" : textview
+     "twostates, calculas@iitb..." : button(since i wish to keep a onclick command on it which can direct to some link or additional info about the person to contact him"
+     "home,my exchanges, logout" : button
+
+the page will be under relative layout with inside some parts of linear layout. first book-ed! at the center horizontal and parent top. then "shelf for all" below it using relative. thenbuild the search bar using reative with "shelf for all". then, linear layout is to used twice once vertical for top files and then horizontal for buttons at parent bottom.
+
+
+FOR A BETTER EXPLANATION OF THUS, PLEASE REFER TO MY CODE. I HAVE DONE IT VIA THIS ONLY.
+
+5. DONE
+
+6. CODE HAS BEEN ATTACHED.
+
+some more MODIFICATIONS can be made but due to lack of time i could not do them. some of them are:
+   adding more features to this app.
+   also adding links of books and scanned copies of notes when one searches for a particular book or notes, since our purpose it to help the user get the item he wants may be a softcopy if    getting a hardcopy is getting tough
+   and ofcourse there are many more.
+
+EXPLANATION OF MY CODE:
+  i have made in the first screen i.e. for sign up
+  it takes user's input so that gets to know about the locality and possible choices of user.
+  if you press "signup" it takes you to the next screen.
+  the next screen shows a model layout of how the after login screen will look like.
+  when you press"logout" it brings you back to the login page.
+  
+
+  
+                       
